@@ -9,7 +9,7 @@ Using **SQL**, **Python**, and **Power BI**, this analysis explores how factors 
 
 ## 🧩 Tools & Technologies
 - **SQL** – Data extraction, cleaning, and validation  
-- **Python** – Data preprocessing and analysis (`pandas`, `numpy`, `matplotlib`, `seaborn`)  
+- **Python** – Data preprocessing and analysis 
 - **Power BI** – Interactive visualization and dashboard creation  
 - **Excel/CSV** – Dataset source and exploration  
 
