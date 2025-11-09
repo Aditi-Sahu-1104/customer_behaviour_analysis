@@ -63,7 +63,7 @@ Performed using **Python** and **SQL**:
 - Sales by Age Group  
 - Filters for Gender, Shipping Type, and Payment Method  
 
-📸 *customer_behavior_analysis.png*
+📸 [*customer_behavior_analysis.png*](https://github.com/Aditi-Sahu-1104/customer_behaviour_analysis/blob/main/customer_behavior_analysis.png)
 
 ---
 
